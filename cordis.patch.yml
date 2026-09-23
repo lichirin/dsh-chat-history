@@ -1,0 +1,5 @@
+# dsh-chat-history-fix bundle patch: registers the conversation view tab.
+# 本地适配版（dsh 0.1.2-rc.1）：聊天快照改由 useChat hook 提供。
+- insert:
+    - id: chat-history
+      name: 'dsh-chat-history-fix'
