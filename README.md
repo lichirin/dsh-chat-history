@@ -1,4 +1,6 @@
-# dsh-chat-history
+# 对话目录dsh插件
+
+中文名：对话目录dsh插件。仓库名 dsh-chat-history。
 
 ## 本副本（DeepSeek Harness 0.1.7-rc.1）
 
